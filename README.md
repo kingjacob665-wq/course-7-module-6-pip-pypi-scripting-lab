@@ -146,3 +146,4 @@ After completing this lab, you will:
 ✅ Structure projects for portability and collaboration
 
 These scripting and packaging skills are essential for building automation tools and working in modern Python development workflows.
+# Task Automation Lab
